@@ -1,0 +1,11 @@
+C:\Users\R.M\source\repos\JobRoomProject\src\JobRoom\JobRoom.Tools\bin\Debug\net5.0\JobRoom.Tools.deps.json
+C:\Users\R.M\source\repos\JobRoomProject\src\JobRoom\JobRoom.Tools\bin\Debug\net5.0\JobRoom.Tools.dll
+C:\Users\R.M\source\repos\JobRoomProject\src\JobRoom\JobRoom.Tools\bin\Debug\net5.0\ref\JobRoom.Tools.dll
+C:\Users\R.M\source\repos\JobRoomProject\src\JobRoom\JobRoom.Tools\bin\Debug\net5.0\JobRoom.Tools.pdb
+C:\Users\R.M\source\repos\JobRoomProject\src\JobRoom\JobRoom.Tools\obj\Debug\net5.0\JobRoom.Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\R.M\source\repos\JobRoomProject\src\JobRoom\JobRoom.Tools\obj\Debug\net5.0\JobRoom.Tools.AssemblyInfoInputs.cache
+C:\Users\R.M\source\repos\JobRoomProject\src\JobRoom\JobRoom.Tools\obj\Debug\net5.0\JobRoom.Tools.AssemblyInfo.cs
+C:\Users\R.M\source\repos\JobRoomProject\src\JobRoom\JobRoom.Tools\obj\Debug\net5.0\JobRoom.Tools.csproj.CoreCompileInputs.cache
+C:\Users\R.M\source\repos\JobRoomProject\src\JobRoom\JobRoom.Tools\obj\Debug\net5.0\JobRoom.Tools.dll
+C:\Users\R.M\source\repos\JobRoomProject\src\JobRoom\JobRoom.Tools\obj\Debug\net5.0\ref\JobRoom.Tools.dll
+C:\Users\R.M\source\repos\JobRoomProject\src\JobRoom\JobRoom.Tools\obj\Debug\net5.0\JobRoom.Tools.pdb

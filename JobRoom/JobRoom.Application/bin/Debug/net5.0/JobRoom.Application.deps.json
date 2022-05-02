@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "JobRoom.Application/1.0.0": {
+        "dependencies": {
+          "JobRoom.Common": "1.0.0",
+          "JobRoom.Domain": "1.0.0"
+        },
+        "runtime": {
+          "JobRoom.Application.dll": {}
+        }
+      },
+      "JobRoom.Common/1.0.0": {
+        "runtime": {
+          "JobRoom.Common.dll": {}
+        }
+      },
+      "JobRoom.Domain/1.0.0": {
+        "runtime": {
+          "JobRoom.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JobRoom.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "JobRoom.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "JobRoom.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

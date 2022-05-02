@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "JobRoom.Common/1.0.0": {
+        "runtime": {
+          "JobRoom.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JobRoom.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

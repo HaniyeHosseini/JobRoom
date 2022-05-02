@@ -1,0 +1,17 @@
+C:\Users\R.M\source\repos\JobRoomProject\src\JobRoom\JobRoom.Application\bin\Debug\net5.0\JobRoom.Application.deps.json
+C:\Users\R.M\source\repos\JobRoomProject\src\JobRoom\JobRoom.Application\bin\Debug\net5.0\JobRoom.Application.dll
+C:\Users\R.M\source\repos\JobRoomProject\src\JobRoom\JobRoom.Application\bin\Debug\net5.0\ref\JobRoom.Application.dll
+C:\Users\R.M\source\repos\JobRoomProject\src\JobRoom\JobRoom.Application\bin\Debug\net5.0\JobRoom.Application.pdb
+C:\Users\R.M\source\repos\JobRoomProject\src\JobRoom\JobRoom.Application\obj\Debug\net5.0\JobRoom.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\R.M\source\repos\JobRoomProject\src\JobRoom\JobRoom.Application\obj\Debug\net5.0\JobRoom.Application.AssemblyInfoInputs.cache
+C:\Users\R.M\source\repos\JobRoomProject\src\JobRoom\JobRoom.Application\obj\Debug\net5.0\JobRoom.Application.AssemblyInfo.cs
+C:\Users\R.M\source\repos\JobRoomProject\src\JobRoom\JobRoom.Application\obj\Debug\net5.0\JobRoom.Application.csproj.CoreCompileInputs.cache
+C:\Users\R.M\source\repos\JobRoomProject\src\JobRoom\JobRoom.Application\obj\Debug\net5.0\JobRoom.Application.dll
+C:\Users\R.M\source\repos\JobRoomProject\src\JobRoom\JobRoom.Application\obj\Debug\net5.0\ref\JobRoom.Application.dll
+C:\Users\R.M\source\repos\JobRoomProject\src\JobRoom\JobRoom.Application\obj\Debug\net5.0\JobRoom.Application.pdb
+C:\Users\R.M\source\repos\JobRoomProject\src\JobRoom\JobRoom.Application\bin\Debug\net5.0\JobRoom.Common.dll
+C:\Users\R.M\source\repos\JobRoomProject\src\JobRoom\JobRoom.Application\bin\Debug\net5.0\JobRoom.Domain.dll
+C:\Users\R.M\source\repos\JobRoomProject\src\JobRoom\JobRoom.Application\bin\Debug\net5.0\JobRoom.Common.pdb
+C:\Users\R.M\source\repos\JobRoomProject\src\JobRoom\JobRoom.Application\bin\Debug\net5.0\JobRoom.Domain.pdb
+C:\Users\R.M\source\repos\JobRoomProject\src\JobRoom\JobRoom.Application\obj\Debug\net5.0\JobRoom.Application.csproj.AssemblyReference.cache
+C:\Users\R.M\source\repos\JobRoomProject\src\JobRoom\JobRoom.Application\obj\Debug\net5.0\JobRoom.Application.csproj.CopyComplete

@@ -1,0 +1,15 @@
+C:\Users\R.M\source\repos\JobRoomProject\src\JobRoom\JobRoom.Infrastructure\bin\Debug\net5.0\JobRoom.Infrastructure.deps.json
+C:\Users\R.M\source\repos\JobRoomProject\src\JobRoom\JobRoom.Infrastructure\bin\Debug\net5.0\JobRoom.Infrastructure.dll
+C:\Users\R.M\source\repos\JobRoomProject\src\JobRoom\JobRoom.Infrastructure\bin\Debug\net5.0\ref\JobRoom.Infrastructure.dll
+C:\Users\R.M\source\repos\JobRoomProject\src\JobRoom\JobRoom.Infrastructure\bin\Debug\net5.0\JobRoom.Infrastructure.pdb
+C:\Users\R.M\source\repos\JobRoomProject\src\JobRoom\JobRoom.Infrastructure\obj\Debug\net5.0\JobRoom.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\R.M\source\repos\JobRoomProject\src\JobRoom\JobRoom.Infrastructure\obj\Debug\net5.0\JobRoom.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\R.M\source\repos\JobRoomProject\src\JobRoom\JobRoom.Infrastructure\obj\Debug\net5.0\JobRoom.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\R.M\source\repos\JobRoomProject\src\JobRoom\JobRoom.Infrastructure\obj\Debug\net5.0\JobRoom.Infrastructure.AssemblyInfo.cs
+C:\Users\R.M\source\repos\JobRoomProject\src\JobRoom\JobRoom.Infrastructure\obj\Debug\net5.0\JobRoom.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\R.M\source\repos\JobRoomProject\src\JobRoom\JobRoom.Infrastructure\obj\Debug\net5.0\JobRoom.Infrastructure.dll
+C:\Users\R.M\source\repos\JobRoomProject\src\JobRoom\JobRoom.Infrastructure\obj\Debug\net5.0\ref\JobRoom.Infrastructure.dll
+C:\Users\R.M\source\repos\JobRoomProject\src\JobRoom\JobRoom.Infrastructure\obj\Debug\net5.0\JobRoom.Infrastructure.pdb
+C:\Users\R.M\source\repos\JobRoomProject\src\JobRoom\JobRoom.Infrastructure\bin\Debug\net5.0\JobRoom.Domain.dll
+C:\Users\R.M\source\repos\JobRoomProject\src\JobRoom\JobRoom.Infrastructure\bin\Debug\net5.0\JobRoom.Domain.pdb
+C:\Users\R.M\source\repos\JobRoomProject\src\JobRoom\JobRoom.Infrastructure\obj\Debug\net5.0\JobRoom.Infrastructure.csproj.CopyComplete
